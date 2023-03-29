@@ -1,0 +1,44 @@
+20:41:56.459 [main] INFO  testCases.TC_005_LoginTestDDT - Clicked on Login Page
+20:41:56.674 [main] INFO  testCases.TC_005_LoginTestDDT - Entered User name
+20:41:56.806 [main] INFO  testCases.TC_005_LoginTestDDT - Entered password
+20:41:56.886 [main] INFO  testCases.TC_005_LoginTestDDT - Clicked on login button
+20:42:11.945 [main] INFO  testCases.TC_005_LoginTestDDT - testing string
+20:42:12.049 [main] INFO  testCases.TC_005_LoginTestDDT - ***********login finished********
+20:42:12.051 [main] INFO  testCases.TC_005_LoginTestDDT - ****Login Test****
+20:42:12.099 [main] INFO  testCases.TC_005_LoginTestDDT - Clicked on BookStore Application
+20:42:12.148 [main] INFO  testCases.TC_005_LoginTestDDT - Clicked on Login Page
+20:42:12.265 [main] INFO  testCases.TC_005_LoginTestDDT - Entered User name
+20:42:12.379 [main] INFO  testCases.TC_005_LoginTestDDT - Entered password
+20:42:12.462 [main] INFO  testCases.TC_005_LoginTestDDT - Clicked on login button
+20:42:13.588 [main] INFO  testCases.TC_005_LoginTestDDT - testing string
+20:43:13.876 [main] INFO  testCases.TC_005_LoginTestDDT - ****Login Test****
+20:43:14.049 [main] INFO  testCases.TC_005_LoginTestDDT - Clicked on BookStore Application
+20:43:14.129 [main] INFO  testCases.TC_005_LoginTestDDT - Clicked on Login Page
+20:43:14.285 [main] INFO  testCases.TC_005_LoginTestDDT - Entered User name
+20:43:14.519 [main] INFO  testCases.TC_005_LoginTestDDT - Entered password
+20:43:14.703 [main] INFO  testCases.TC_005_LoginTestDDT - Clicked on login button
+20:43:15.729 [main] INFO  testCases.TC_005_LoginTestDDT - testing string
+20:43:35.925 [main] INFO  testCases.TC_002_Check_Box - **** Started TC_002_Check_Box****
+20:43:36.057 [main] INFO  testCases.TC_002_Check_Box - Clicked on Elements
+20:43:36.190 [main] INFO  testCases.TC_002_Check_Box - Clicked on Check_Box
+20:43:36.821 [main] INFO  testCases.TC_002_Check_Box - Clicked on Expand
+20:50:51.755 [main] INFO  testCases.TC_001_Text_Box - **** Started TC_001_Text_Box****
+20:50:52.010 [main] INFO  testCases.TC_001_Text_Box - Clicked on Elements
+20:50:52.517 [main] INFO  testCases.TC_001_Text_Box - Clicked on Text_Box
+20:50:52.721 [main] INFO  testCases.TC_001_Text_Box - Entered Username
+20:50:53.100 [main] INFO  testCases.TC_001_Text_Box - Entered Email
+20:50:53.248 [main] INFO  testCases.TC_001_Text_Box - Entered current address
+20:50:53.411 [main] INFO  testCases.TC_001_Text_Box - Entered permenant address
+20:50:53.507 [main] INFO  testCases.TC_001_Text_Box - Clicked on submit
+20:51:03.811 [main] INFO  testCases.TC_002_Check_Box - **** Started TC_002_Check_Box****
+20:51:04.001 [main] INFO  testCases.TC_002_Check_Box - Clicked on Elements
+20:51:05.590 [main] INFO  testCases.TC_002_Check_Box - Clicked on Check_Box
+20:51:05.773 [main] INFO  testCases.TC_002_Check_Box - Clicked on Expand
+20:51:18.354 [main] INFO  testCases.TC_004_LoginTest - ****Login Test****
+20:51:18.597 [main] INFO  testCases.TC_004_LoginTest - Clicked on BookStore Application
+20:51:20.349 [main] INFO  testCases.TC_004_LoginTest - Clicked on Login Page
+20:51:20.819 [main] INFO  testCases.TC_004_LoginTest - Entered User name
+20:51:21.029 [main] INFO  testCases.TC_004_LoginTest - Entered password
+20:51:21.138 [main] INFO  testCases.TC_004_LoginTest - Clicked on login button
+20:51:22.068 [main] INFO  testCases.TC_004_LoginTest - Validations
+20:51:22.069 [main] INFO  testCases.TC_004_LoginTest - ***********login finished********
